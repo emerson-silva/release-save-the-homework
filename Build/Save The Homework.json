@@ -1,0 +1,17 @@
+{
+"companyName": "DevEllo Game Studio",
+"productName": "Save the Homework",
+"productVersion": "0.1",
+"dataUrl": "Save The Homework.data.unityweb",
+"wasmCodeUrl": "Save The Homework.wasm.code.unityweb",
+"wasmFrameworkUrl": "Save The Homework.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Save The Homework.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
